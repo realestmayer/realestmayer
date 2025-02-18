@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a new project
+- 🌱 I’m currently learning to become a DevSecOps Engineer
+
 <!--
 **realestmayer/realestmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
